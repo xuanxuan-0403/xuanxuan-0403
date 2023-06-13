@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋! 这里是车干 !
 
+目前在山东信院大四, 数字媒体应用技术专业, 自学前端开发
 <!--
 **xuanxuan-0403/xuanxuan-0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
